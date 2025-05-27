@@ -18,11 +18,22 @@
 - How many male vs female athletes?
 <br> There are 122, 072 more males than female athletes.
 
+#### Activity 3
+- What’s the average age?
+<br> The average age is 25.2256898.
+
+- What’s the oldest and youngest athlete?
+<br> The oldest athlete is 97 years old while the youngest is 10.
+
+- Are there any columns with missing or strange values?
+<br> There are zero columns with any missing or strange values.
+
 ## Final Evaluation
 #### What I did -
 ##### 27/05/2025
-Today I finished Activities 2 and Activity 1 and 2 of Activities 3.
+Today I finished Activities B and Activities 1 through 3 of Activities C.
 #### What I learned this week -
 #### What I practiced/built -
 #### What was difficult and needs more work -
+
 
